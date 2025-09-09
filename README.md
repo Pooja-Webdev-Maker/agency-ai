@@ -1,13 +1,22 @@
-##Agency Website
-A modern and responsive single-page application built with React.js and Tailwind CSS.
+✨ Agency Website
 
-🚀****Features
--Implemented state management using React hooks
--Integrated routing for smooth navigation
--Added light/dark theme toggle functionality
--Enhanced user experience with Framer Motion animations
--Fully responsive design across all devices
--Functional contact form with real-time email delivery
+A modern and responsive single-page agency website built with React.js and Tailwind CSS, showcasing smooth UI/UX with animations, theme toggle, and a working contact form.
+
+🚀 Features
+
+🔹 State management implemented with React hooks
+
+🔹 Client-side routing for smooth navigation
+
+🔹 Light/Dark theme toggle for better accessibility
+
+🔹 Framer Motion animations for enhanced user experience
+
+🔹 Fully responsive design across mobile, tablet, and desktop
+
+🔹 Working contact form with real-time email delivery (Formspree/EmailJS integration)
+
+🔹 Optimized performance with Vite build tool
 
 ![image alt](https://github.com/Pooja-Webdev-Maker/agency-ai/blob/7cc2147098819c18bb9059a73349965e0a6098f7/agency%20demo.gif)
 
