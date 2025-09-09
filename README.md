@@ -1,12 +1,27 @@
-# React + Vite
+##Agency Website
+A modern and responsive single-page application built with React.js and Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀****Features
+-Implemented state management using React hooks
+-Integrated routing for smooth navigation
+-Added light/dark theme toggle functionality
+-Enhanced user experience with Framer Motion animations
+-Fully responsive design across all devices
+-Functional contact form with real-time email delivery
 
-Currently, two official plugins are available:
+![image alt](https://github.com/Pooja-Webdev-Maker/agency-ai/blob/7cc2147098819c18bb9059a73349965e0a6098f7/agency%20demo.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
+
+
+
+
+
+
+
+
